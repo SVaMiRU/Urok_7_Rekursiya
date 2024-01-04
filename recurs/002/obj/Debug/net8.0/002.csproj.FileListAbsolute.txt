@@ -1,0 +1,14 @@
+D:\GeekBrains\exam\recurs\002\bin\Debug\net8.0\002.exe
+D:\GeekBrains\exam\recurs\002\bin\Debug\net8.0\002.deps.json
+D:\GeekBrains\exam\recurs\002\bin\Debug\net8.0\002.runtimeconfig.json
+D:\GeekBrains\exam\recurs\002\bin\Debug\net8.0\002.dll
+D:\GeekBrains\exam\recurs\002\bin\Debug\net8.0\002.pdb
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.AssemblyInfoInputs.cache
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.AssemblyInfo.cs
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.csproj.CoreCompileInputs.cache
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.dll
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\refint\002.dll
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.pdb
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\002.genruntimeconfig.cache
+D:\GeekBrains\exam\recurs\002\obj\Debug\net8.0\ref\002.dll
